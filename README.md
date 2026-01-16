@@ -10,11 +10,12 @@ Email Me 👉 ✉️ **aakarh027@outlook.com** For Collaboration/Project or Anyt
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
  <!-- Snake Game Repo View -->
+<br clear="both">
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/imaakarsh/imaakarsh/output/snake.svg" alt="Snake animation" />
 
+###
+###
 
 
 
