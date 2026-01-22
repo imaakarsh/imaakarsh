@@ -69,7 +69,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
  ### My Contribution Snake
-![github contribution grid snake animation](https://raw.githubusercontent.com)
+
+![Snake](https://raw.githubusercontent.com)
 
 
 </picture>
