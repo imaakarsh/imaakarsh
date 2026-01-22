@@ -5,19 +5,33 @@
     <img src="https://komarev.com/ghpvc/?username=imaakarsh&label=Profile%20views&color=00FFFF&style=flat-square" alt="imaakarsh's profile views" />
   </a>
 </p>
+<table width="100%">
+  <tr>
+    <!-- LEFT: ABOUT ME -->
+    <td width="50%" valign="top">
 
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
+### 📌 About Me
+- 🔭 I’m currently working on personal web development projects  
+- 🌱 I’m currently learning the MERN Stack (MongoDB, Express, React, Node.js)  
+- 👯 I’m looking to collaborate on beginner-friendly open source projects  
+- 🤔 I’m looking for help with backend logic, APIs & best practices  
+- 💬 Ask me about HTML, CSS, JavaScript, Git & web basics  
+- 📫 Reach me on LinkedIn / GitHub  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I turn ☕ coffee into clean UI & working code  
 
-## 📌 About Me
-- 🔭 I’m currently working on personal web development projects
-- 🌱 I’m currently learning the MERN Stack (MongoDB, Express, React, Node.js)
-- 👯 I’m looking to collaborate on beginner-friendly open source and web projects
-- 🤔 I’m looking for help with backend logic, APIs, and best practices
-- 💬 Ask me about HTML, CSS, JavaScript, Git, and web basics
-- 📫 How to reach me: LinkedIn / GitHub
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy turning coffee ☕ into clean UI and working code
+    </td>
 
+    <!-- RIGHT: IMAGE -->
+    <td width="50%" align="center" valign="middle">
+  <img 
+    src="https://i.pinimg.com/736x/4d/c4/29/4dc42943dee720fe8e0bfcce8b9fad68.jpg"
+    width="100%"
+    alt="coding aesthetic"
+  />
+</td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -27,6 +41,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imaakarsh&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aakarsh Raj's GitHub Trophies" />
 </p>
+
 
 
 ## 🛠️ Languages & Tools
