@@ -33,14 +33,18 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imaakarsh&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="imaakarsh's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=imaakarsh&theme=dark&hide_border=true&cache_seconds=86400" alt="imaakarsh's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imaakarsh&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aakarsh Raj's GitHub Trophies" />
-</p>
+
+# 📊 GitHub Stats:
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=imaakarsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=imaakarsh&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imaakarsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=imaakarsh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
@@ -58,9 +62,7 @@
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaakarsh&layout=compact&theme=dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
+
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/aakarshraj07/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/9368329901" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.youtube.com/@aakarshcodes" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:aakarsh027@outlook.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
