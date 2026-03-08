@@ -93,7 +93,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
  
 
-![GitHub Snake](https://raw.githubusercontent.com/imaakarsh/snk/refs/heads/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/imaakarsh/imaakarsh/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 
 </picture>
