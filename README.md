@@ -1,11 +1,16 @@
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Aakarsh Raj</h1>
 
+
+
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=imaakarsh">
-    <img src="https://komarev.com/ghpvc/?username=imaakarsh&label=Profile%20views&color=00FFFF&style=flat-square" alt="imaakarsh's profile views" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Currently+Learning+MERN+Stack;Building+Projects+%26+Improving+Daily" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imaakarsh&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views"/>
+</p>
+
 <table width="100%">
   <tr>
     <!-- LEFT: ABOUT ME -->
