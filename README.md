@@ -40,15 +40,34 @@
 </table>
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
+
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=imaakarsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=imaakarsh&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imaakarsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://stats-two-rust.vercel.app/api?username=imaakarsh&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imaakarsh&theme=radical&hide_border=true"/>
+
+<br/>
+
+<img src="https://stats-two-rust.vercel.app/api/top-langs/?username=imaakarsh&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=imaakarsh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imaakarsh&theme=radical&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imaakarsh&theme=react-dark&hide_border=true"/>
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
