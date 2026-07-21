@@ -29,41 +29,7 @@ Currently focused on the **MERN Stack**, improving my **DSA & C++** skills, and 
 
 ---
 
-## tech stack
 
-**Frontend**
-
-- HTML
-- CSS
-- JavaScript
-- React
-- Tailwind CSS
-
-**Backend**
-
-- Node.js
-- Express.js
-
-**Database**
-
-- MongoDB
-
-**Languages**
-
-- C++
-- JavaScript
-- Python
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Vercel
-- Figma
-
----
 
 ## currently
 
@@ -75,7 +41,7 @@ Currently focused on the **MERN Stack**, improving my **DSA & C++** skills, and 
 
 ---
 
-## github stats
+
 
 <p align="center">
 
