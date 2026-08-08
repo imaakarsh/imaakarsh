@@ -43,20 +43,15 @@ Currently focused on the **MERN Stack**, improving my **DSA & C++** skills, and 
 
 
 
-<p align="center">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=imaakarsh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=imaakarsh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=imaakarsh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=imaakarsh&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+---
+[![](https://komarev.com/ghpvc/?username=imaakarsh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaakarsh&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=imaakarsh&theme=github-dark&hide_border=true"/>
-
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 ## connect
