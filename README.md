@@ -60,9 +60,9 @@ Currently focused on the **MERN Stack**, improving my **DSA & C++** skills, and 
 ## connect
 
 - 🌐 Portfolio → https://aakarshdev.me
-- 💼 LinkedIn → https://linkedin.com/in/YOUR_USERNAME
-- 🐦 Twitter → https://twitter.com/YOUR_USERNAME
-- 📧 Email → YOUR_EMAIL@gmail.com
+- 💼 LinkedIn → [https://linkedin.com/in/](https://www.linkedin.com/in/aakarshraj07/)
+- 🐦 Twitter → [https://twitter.com/YOUR_USERNAME](https://x.com/imaakarshh)
+- 📧 Email → aakarsh027@outlook.com
 
 ---
 
