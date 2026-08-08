@@ -43,6 +43,8 @@ Currently focused on the **MERN Stack**, improving my **DSA & C++** skills, and 
 
 
 
+<div align="center">
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=imaakarsh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=imaakarsh&theme=dark&hide_border=false)<br/>
@@ -52,7 +54,8 @@ Currently focused on the **MERN Stack**, improving my **DSA & C++** skills, and 
 [![](https://komarev.com/ghpvc/?username=imaakarsh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
+</div>
+
 
 ## connect
 
