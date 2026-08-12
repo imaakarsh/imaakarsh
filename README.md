@@ -1,4 +1,12 @@
 <div align="center">
+  <a href="https://postimg.cc/pytCmbKy">
+    <img src="https://i.postimg.cc/T2K4HTwj/2ede7b2dc3b86f162d05817aed376b73.jpg" width="100%" alt="Banner"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
 
 # Aakarsh Raj
 
@@ -71,3 +79,10 @@ Currently focused on the **MERN Stack**, improving my **DSA & C++** skills, and 
 *"Learning in public. Building one project at a time."*
 
 </div>
+
+<div align="center">
+  <a href="https://postimg.cc/XBBCDcJP">
+    <img src="https://i.postimg.cc/prqJrstP/20260612-025300.jpg" width="100%" alt="Coding Quotes"/>
+  </a>
+</div>
+
